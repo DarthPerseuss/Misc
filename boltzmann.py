@@ -1,3 +1,6 @@
+# Runs a Boltzmann Machine to classify a random set of 
+# uniformly distributed discrete numbers in {-1, 1}. 
+
 import numpy as np
 from numpy import random
 import matplotlib.pyplot as plt

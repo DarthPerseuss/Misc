@@ -1,0 +1,2 @@
+The code here is modeled after Stefen Jansen's prediction of the S&P500 index in Machine Learning for Algorithmic Trading. 
+The csv file contains the data, and the jupyter notebook runs all the steps needed from preprocessing to result acquisition.
